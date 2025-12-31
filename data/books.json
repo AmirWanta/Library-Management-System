@@ -1,0 +1,56 @@
+[
+  {
+    "id": "B001",
+    "title": "1984",
+    "author": "George Orwell",
+    "category": "Dystopian",
+    "is_borrowed": false,
+    "borrowed_by": "",
+    "borrowed_date": null
+  },
+  {
+    "id": "B002",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "category": "Classic",
+    "is_borrowed": true,
+    "borrowed_by": "Amir",
+    "borrowed_date": "2025-12-30"
+  },
+  {
+    "id": "B003",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "category": "Fiction",
+    "is_borrowed": false,
+    "borrowed_by": "",
+    "borrowed_date": null
+  },
+  {
+    "id": "B004",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "category": "Self-Help",
+    "is_borrowed": false,
+    "borrowed_by": "",
+    "borrowed_date": null
+  },
+  {
+    "id": "B005",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "category": "Programming",
+    "is_borrowed": false,
+    "borrowed_by": "",
+    "borrowed_date": null
+  },
+  {
+    "id": "B006",
+    "title": "Percy Jackson",
+    "author": "Ricky Riordan",
+    "category": "Action",
+    "is_borrowed": false,
+    "borrowed_by": "",
+    "borrowed_date": null
+  }
+]
